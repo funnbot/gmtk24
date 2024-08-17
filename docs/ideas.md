@@ -1,4 +1,4 @@
-# Built to Scale
+# Theme: Built to Scale
 2D
 
 ## Words
@@ -114,6 +114,7 @@
 - a thing or concept that exists at a scale we are not accustomed to.
 - macro photography
 - something that is really small but has a lot of power/impact/influence (ants, viruses, malaria)
+
 ### Small Things
 - ants
 - bacteria
@@ -167,6 +168,7 @@
 - the perspective of a child vs an adult
 - a toy version of an object
 - a model of a building that can control or effect the real building
+
 ### Experiences that give a sense of scale
 - seeing the earth from the moon
 - birds eye view perspective
@@ -211,3 +213,12 @@
 - destroying a city as godzilla
 - a tiny character on a leaf going down river rapids and you need to go back and forth or you need to balance it or you need to scoop out the water.
 - play as a tiny insect and you make the treck to find something important/ your home, and it takes like, 24 real time hours for the player to actually walk that distance.
+- make yourself and you play as yourself in a little room. And then it switches somehow to a giant character the size of a building, and you step on your house, which kills yourself.
+- permanent spore cell stage.
+- somehow show the player that they are worthless in comparison to the concept of a god.
+- platformer where you progress is constantly impeded by a god that is trying to pick you up and place you back
+	- or a bug trying to get food or to escape, and a child thats cupping their hand in front of it.
+- space pinball with gravity slingshots using stars, black holes as traps, worm holes to teleport around, asteroids flying across that if they hit you you dont bump off, but you have the energy of the asteroid applied to your velocity, and your planet loses some bits, mass changes. Your health could be the mass of your planet. These ideas could apply to other movement mechanics, not just pinball. black hole below the pin smackers that will always pull the planet down eventually.
+- you control a hundreds-thousands of tiny things/creatures, to complete a task. (futile???!!!!?!?!)
+- you are a tiny gardener gnome, and you water flowers which grow up, to solve puzzles.
+- play as a fish in a school of fish, trying to direct the fish, maybe you are trying to save them from a dangerous thing, but you are a small fish and its hard.

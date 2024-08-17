@@ -231,3 +231,37 @@
 - you are a tiny gardener gnome, and you water flowers which grow up, to solve puzzles.
 - play as a fish in a school of fish, trying to direct the fish, maybe you are trying to save them from a dangerous thing, but you are a small fish and its hard.
 - you are a mosquito and you are trying to avoid a pair of hands that are attempting to clap and kill you.
+
+## Top Ideas
+
+### You are a seed and you have to grow into a tree
+**or as a ant colony builder**
+**or a microbe colony builder**
+- cross section view of tree
+- you build the roots towards nutrient patches
+- scroll up and down the tree
+- rays of sunlight appear and you grow branches and place leaves to collect them.
+- competing with other trees to get the sunlight.
+- catastrophic events that you need to deal with
+	- fungus attacks the tree roots
+	- bugs attack the tree leaves
+	- disease attacks the tree bark
+- symbiotic relationships with other organisms, could be an "upgrade", or a random event.
+
+### A creature builder
+- maybe have a unintuitive control method for tweezers or hands.
+- get these body parts and stick them together and build a creature
+- a larger body piece
+- smaller body pieces
+- eyes
+- a piece that will wiggle back and forth when its placed
+- maybe once the creature is done it will be animated with the joints
+
+### Infinite Bug Torture
+- blocking the bug from getting food
+
+### Space Pinball or Brick Breaker
+- space pinball with gravity slingshots using stars, black holes as traps, worm holes to teleport around, asteroids flying across that if they hit you you don't bump off, but you have the energy of the asteroid applied to your velocity, and your planet loses some bits, mass changes. Your health could be the mass of your planet. These ideas could apply to other movement mechanics, not just pinball. black hole below the pin smackers that will always pull the planet down eventually.
+
+### Controlling Group of Ants
+- or a fish trying to direct a school of fish

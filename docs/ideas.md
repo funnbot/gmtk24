@@ -1,5 +1,7 @@
 # Theme: Built to Scale
-2D
+### Limitations
+- 2D
+- Godot Engine
 
 ## Words
 

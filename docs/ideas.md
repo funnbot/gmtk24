@@ -224,3 +224,4 @@
 - you control a hundreds-thousands of tiny things/creatures, to complete a task. (futile???!!!!?!?!)
 - you are a tiny gardener gnome, and you water flowers which grow up, to solve puzzles.
 - play as a fish in a school of fish, trying to direct the fish, maybe you are trying to save them from a dangerous thing, but you are a small fish and its hard.
+- you are a mosquito and you are trying to avoid a pair of hands that are attempting to clap and kill you.
